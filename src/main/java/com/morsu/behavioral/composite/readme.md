@@ -35,10 +35,9 @@ defines behaviour for primitive objects in the composition.
 stores child components.
 implements child related operations in the component interface.
 
-*__Client__
+* __Client__
     
     manipulates objects in the composition through the component interface.
-
 
 # When to use it:
 you want to represent part-whole hierachies of objects.

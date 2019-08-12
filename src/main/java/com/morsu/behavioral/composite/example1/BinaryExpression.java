@@ -1,4 +1,4 @@
-package com.morsu.behavioral;
+package com.morsu.behavioral.composite.example1;
 
 public abstract class BinaryExpression implements Expression{
 

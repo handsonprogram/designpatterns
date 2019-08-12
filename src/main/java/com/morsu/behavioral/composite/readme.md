@@ -31,13 +31,13 @@ defines behaviour for primitive objects in the composition.
 
 * __Composite__
     
-    defines behaviour for components having children.
+    Defines behaviour for components having children.
 stores child components.
 implements child related operations in the component interface.
 
 * __Client__
     
-    manipulates objects in the composition through the component interface.
+    Manipulates objects in the composition through the component interface.
 
 # When to use it:
 you want to represent part-whole hierachies of objects.

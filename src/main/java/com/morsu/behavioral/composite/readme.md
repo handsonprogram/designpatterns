@@ -10,7 +10,7 @@ Composite design patten allows you to have a tree structure and ask each node in
 Composite design pattern treats each node in two ways-Composite or leaf.Composite means it can have other objects below it.leaf means it has no objects below it.
 
 # Tree structure:
-
+![Image of CompositeGenericHeirarchy](https://github.com/handsonprogram/designpatterns/blob/master/images/CompositeDesignPatternGenericHierarchy.gif)
 
 
 # When to use it:
